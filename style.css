@@ -1,21 +1,10 @@
 p {
   text-align: center;
-  color: red;
-}
-img {
-
-  border-radius: 8px;
-  display: block;
-  margin-left: 90px;
-  margin-right: auto;
-}
-h1 {
- background-image: url("background.jpg");
- background-color: #cccccc;
 }
 
-h1 {
-  background-color: lightblue;
+
+#header{
+  background-color: rgb(200,200,200);
+  text-align: center;
 }
-body {
-}
+
