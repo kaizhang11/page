@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Halant');
 p {
   text-align: center;
+  font-family: 'Halant',serif;
+}
+h2{
+  text-align: center;
+  font-family: 'Halant',serif;
 }
 
 #header{
@@ -14,23 +20,23 @@ p {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-image: url("dynamic-style.png"); 
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 10px;
+  padding-top: 20px;
   border-right-style: outset;
-  border-right-width: 2px;
+  border-right-width: 1px;
 }
 
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
+  font-family: 'Halant',serif;
   font-size: 20px;
   color: rgb(0,0,0);
   display: block;
 }
 
 .sidenav a:hover {
-  color: rgb(200,200,0);
+  color: rgb(170,200,0);
 }
 .main {
   margin-left: 160px; /* Same as the width of the sidebar */

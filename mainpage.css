@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Halant');
+#container a{
+	 text-decoration: none;
+	 font-family: 'Halant',serif;
+	 color: #4D4858;
+	 font-size: 20px;
+}
+
+#container a:hover {
+	 text-decoration: none;
+     color: #CB4766;
+}
+
+
+ul {
+	display: inline-block;
+	font-family: 'Halant',serif;
+	color: #4D4858;
+	font-size: 20px;
+
+	list-style-position: inside;
+	text-align: left;
+}
+
+#container{
+	font-size: 40px;
+	text-align: center;
+}
+
+
+
+
+
+#header{
+	 padding-bottom: 10px;
+	 height: 100px;
+	 border-bottom-style: outset;
+     border-bottom-width: 1px;
+    /* border: 3px solid #73AD21;*/
+}
+
+#name {
+	 display: inline-block;
+	 height:100% ;
+  	 position: relative;
+     left: 120px;
+    /* border: 3px solid #73AD21;*/
+
+}
+
+#name p{
+	 text-align: left;
+	 font-family: 'Halant',serif;
+	 color: #4D4858;
+	 font-size: 35px;
+
+}
+
+#avatar {
+	 display: inline-block;
+     position: relative;
+     left: 100px;
+     bottom:10px;
+     /*border: 3px solid #73AD21;*/
+}
+
+#avatar img{
+	 vertical-align: middle;
+	 border-radius: 8px;
+	 height:70px;
+	 width:70px;
+}
