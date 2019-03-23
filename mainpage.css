@@ -1,18 +1,55 @@
 @import url('https://fonts.googleapis.com/css?family=Halant');
-#container a{
+
+
+#wrap1{
+	padding-left: 600px;
+	height:auto;
+
+}
+
+
+.left{
+	 display: inline-block;
+	 width:5%;
+
+	 float: left;
+	 text-decoration: none;
+	 font-family: 'Halant',serif;
+	 color: #4D4858;
+	 font-size: 25px;
+	 font-weight: bolder;
+	
+}
+.right{
+	padding-top: 9px;
+	display: inline-block;
+	width: 94%;
+	float:right;
+
+}
+
+
+
+
+#wrap1 a{
 	 text-decoration: none;
 	 font-family: 'Halant',serif;
 	 color: #4D4858;
 	 font-size: 20px;
 }
 
-#container a:hover {
+#wrap1 a:hover {
 	 text-decoration: none;
      color: #CB4766;
 }
 
 
-ul {
+
+
+
+
+
+#list1 {
 	display: inline-block;
 	font-family: 'Halant',serif;
 	color: #4D4858;
